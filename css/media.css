@@ -1,0 +1,52 @@
+@media only screen and (max-width: 992px) {
+    .header .navbar {
+        padding: 10px 0;
+    }
+    .main {
+        padding: 160px 0;
+    }
+    .main .title {
+        font-size: 33px;
+    }
+    .main .btn {
+        padding: 13px 40px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .site-title {
+        font-size: 24px;
+        margin-top: 50px;
+    }
+    .services .item {
+        margin-top: 50px;
+    }
+    .services .item i {
+        font-size: 40px;
+    }
+    .pricing .box {
+        margin-top: 50px;
+    }
+    .pricing .box .status {
+        padding: 20px 0;
+    }
+    .pricing .box .list {
+        margin: 20px 0;
+    }
+    .pricing .box .btn {
+        margin-bottom: 35px;
+    }
+    .projects .line {
+        margin-bottom: 50px;
+    }
+    .contact form {
+        padding: 50px 0;
+    }
+    .contact .input {
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    .footer .title {
+        margin-top: 30px;
+    }
+}
